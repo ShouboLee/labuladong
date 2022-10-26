@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: sentseg
+Version: 0.0.1
+Summary: Kensho sentence split tool
+Author: lishoubo
+Author-email: lishoubo@intern.langboat.com
+Requires-Python: >=3.6

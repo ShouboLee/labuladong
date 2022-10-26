@@ -1,0 +1,8 @@
+setup.py
+sentseg/__init__.py
+sentseg.egg-info/PKG-INFO
+sentseg.egg-info/SOURCES.txt
+sentseg.egg-info/dependency_links.txt
+sentseg.egg-info/top_level.txt
+sentseg/normal/__init__.py
+sentseg/utils/__init__.py
